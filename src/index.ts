@@ -1,0 +1,1 @@
+export { CkanClient } from './ckanClient';
